@@ -1,5 +1,10 @@
-### 初めまして👋
-渋谷一帆と申します。
+# 初めまして👋
+渋谷一帆（しぶやかずほ）と申します。25歳。エンジニアです。
 
-### Portfolio
-https://www.unknownmusic.net/
+## Portfolio
+[UnknownMusic](https://www.unknownmusic.net/)
+
+## SNS
+[Twitter](https://twitter.com/kazuho_web)  
+[Facebook](https://www.facebook.com/kazuhoweb)  
+[Qiita](https://qiita.com/studyitpc)
