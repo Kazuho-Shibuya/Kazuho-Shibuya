@@ -8,5 +8,4 @@
 
 ## SNS
 [Twitter](https://twitter.com/kazuho_web)  
-[Facebook](https://www.facebook.com/kazuhoweb)  
 [Qiita](https://qiita.com/studyitpc)
