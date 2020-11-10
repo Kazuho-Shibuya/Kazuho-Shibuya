@@ -1,9 +1,11 @@
 渋谷一帆（しぶやかずほ）と申します。25歳。エンジニアです。
-【Github contributions 140日連続達成中】
 
 ## Portfolio
+【Github contributions 140日連続達成中】
+
 [UnknownMusic](https://www.unknownmusic.net/)  
 [Repositoryはこちら](https://github.com/Kazuho-Shibuya/unknownmusic)
+
 音楽試聴アプリです。  
 
 ## SNS
