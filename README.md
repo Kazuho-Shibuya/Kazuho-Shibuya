@@ -4,7 +4,7 @@
 【Github contributions 170日連続達成中】
 
 [UnknownMusic](https://www.unknownmusic.net/)  
-[Repositoryはこちら](https://github.com/Kazuho-Shibuya/unknownmusic)
+[Repository](https://github.com/Kazuho-Shibuya/unknownmusic)
 
 音楽試聴アプリです。  
 
