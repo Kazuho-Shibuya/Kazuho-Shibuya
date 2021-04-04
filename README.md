@@ -1,7 +1,7 @@
-渋谷 一帆（しぶや かずほ）と申します。26歳。エンジニアです。
+渋谷 一帆（しぶや かずほ）と申します。好きな言葉は「Better is good」
 
 ## Portfolio
-【Github contributions 20日以上連続達成中】
+【Github contributions 250日以上連続達成中】
 
 [UnknownMusic](https://www.unknownmusic.net/)  
 [Repository](https://github.com/Kazuho-Shibuya/unknownmusic)
