@@ -6,7 +6,7 @@
 [UnknownMusic](https://www.unknownmusic.net/)  
 [Repository](https://github.com/Kazuho-Shibuya/unknownmusic)
 
-音楽試聴アプリです。  
+音楽試聴アプリです。どなたでも使用可能なため、上記リンクからご覧ください。
 
 ## SNS
 [Twitter](https://twitter.com/kazuho_web)  
