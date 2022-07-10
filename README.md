@@ -8,5 +8,4 @@
 音楽試聴アプリです。よろしければ、上記リンクからご覧ください。（現在、公開を停止しております。）
 
 ## SNS
-[Twitter](https://twitter.com/kazuho_web)  
-[Qiita](https://qiita.com/kazuho_web)
+[Twitter](https://twitter.com/kazuho_web)
