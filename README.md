@@ -1,5 +1,7 @@
 Hi! I'm kazu.
 
+[Click here for a CV](https://github.com/Kazuho-Shibuya/curriculum-vitae)
+
 My favorite phrase is "Better is Good"💪
 
 This is music listening application created with no experience between May and November 2020.
