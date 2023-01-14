@@ -2,7 +2,7 @@ Hi! I'm kazu 🇯🇵
 
 [Click here for a CV](https://github.com/Kazuho-Shibuya/curriculum-vitae)
 
-- My favorite phrase is "Better is Good" 📈
+- My favourite phrase is "Better is Good" 📈
 - I’m currently learning Ruby on Rails and GraphQL 🌱
 - I'm going to go to the UK from next April 🇬🇧
 
