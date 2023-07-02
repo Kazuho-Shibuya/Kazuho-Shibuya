@@ -1,10 +1,9 @@
-Hi! I'm kazu 🇯🇵
+Hi! I'm Kazu from Japan and live in London now 
 
 [Click here for a CV](https://github.com/Kazuho-Shibuya/curriculum-vitae)
 
 - My favourite phrase is "Better is Good" 📈
-- I’m currently learning Ruby on Rails and GraphQL 🌱
-- I'm going to go to the UK from next April 🇬🇧
+- I’m currently learning Ruby on Rails 🌱
 
 ### Languages and Tools:
 <img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" style="padding-right:10px;" />
