@@ -1,4 +1,4 @@
-Hi! I'm Kazu from Japan and live in London now 
+Hi! I'm Kazu from Japan and live in London now.
 
 [Click here for a CV](https://github.com/Kazuho-Shibuya/curriculum-vitae)
 
