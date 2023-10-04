@@ -1,6 +1,6 @@
 Hi! I'm Kazu from Japan and live in London now.
 
-[Click here for a CV](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12806847/Kazuho-Shibuya-CV.docx)
+[Click here for a CV](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12806874/Kazuho-Shibuya-CV.docx)
 
 - My favourite phrase is "Better is Good" 📈
 - I’m currently learning Ruby on Rails 🌱
