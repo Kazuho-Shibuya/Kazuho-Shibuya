@@ -1,4 +1,4 @@
-Hi! I'm Kazu from Japan and live in London now. This is my CV. [DOCX](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12806874/Kazuho-Shibuya-CV.docx) [PDF](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12806966/Kazuho-Shibuya-CV.pdf)
+Hi! I'm Kazu from Japan and live in London now. This is my CV. [DOCX](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12806874/Kazuho-Shibuya-CV.docx) [PDF](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12807022/Kazuho-Shibuya-CV.pdf)
 
 - My favourite phrase is "Better is Good" 📈
 - I’m currently learning Ruby on Rails and React
