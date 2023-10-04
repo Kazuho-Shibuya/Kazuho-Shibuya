@@ -3,7 +3,7 @@ Hi! I'm Kazu from Japan and live in London now.
 [Click here for a CV](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12806874/Kazuho-Shibuya-CV.docx)
 
 - My favourite phrase is "Better is Good" 📈
-- I’m currently learning Ruby on Rails 🌱
+- I’m currently learning Ruby on Rails and React
 
 ### Languages and Tools:
 <img align="left" alt="Ruby on Rails" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" style="padding-right:10px;" />
