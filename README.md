@@ -1,5 +1,6 @@
 Hi! I'm Kazu from Japan and live in London now. This is my CV. [DOCX](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12849755/Kazuho-Shibuya-CV.docx) [PDF](https://github.com/Kazuho-Shibuya/Kazuho-Shibuya/files/12849758/Kazuho-Shibuya-CV.pdf)
 
+- I'm an innovative software engineer with over 6 years of experience in the dynamic world of designing, developing, and optimizing scalable high-performance web applications.
 - My favourite phrase is "Better is Good" 📈
 
 ### Languages and Tools:
